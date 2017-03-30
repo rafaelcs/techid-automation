@@ -20,4 +20,4 @@ class ContactPage(Page):
 
 	def get_status_message_and_assert_with(self, message):
 
-		assert self.get_text(ContactPageLocators.STATUS_MESSAGE) == message
+		assert self.get_text(ContactPageLocators.STATUS_MESSAGE) == message 
