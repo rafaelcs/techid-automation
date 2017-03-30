@@ -1,0 +1,5 @@
+selenium==2.53.1
+
+pytest==2.8.7
+
+faker==0.7.10
